@@ -1,0 +1,4 @@
+- Escopo de variáveis
+- Laços de repetição
+- Listas e tuplas
+- Funções
